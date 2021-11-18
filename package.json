@@ -1,5 +1,5 @@
 {
-  "name": "goit-react-hw-03-phonebook",
+  "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nelli-belovol/goit-react-hw-03-phonebook.git"
+    "url": "git+https://github.com/nelli-belovol/goit-react-hw-04-hooks-phonebook.git"
   },
   "author": "Nelli Belovol <nelli199020@gmail.com>",
   "bugs": {
-    "url": "https://github.com/nelli-belovol/goit-react-hw-03-phonebook/issues"
+    "url": "https://github.com/nelli-belovol/goit-react-hw-04-hooks-phonebook/issues"
   },
-  "homepage": "https://nelli-belovol.github.io/goit-react-hw-03-phonebook",
+  "homepage": "https://nelli-belovol.github.io/goit-react-hw-04-hooks-phonebook",
   "eslintConfig": {
     "extends": [
       "react-app",
