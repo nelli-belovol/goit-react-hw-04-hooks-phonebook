@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 20%;
+  margin: 0 auto;
+}
+
+.form__button {
+  margin-top: 20px;
+  &:hover,
+  &:focus {
+    background-color: rgb(123, 123, 184);
+    cursor: pointer;
+  }
+}
